@@ -13,7 +13,7 @@ The following libraries are required for the code to work:
 which you can add directly from Arduino IDE.
 
 This table show the corespondence between the ESP32, the screen, the push buttons and the buzzer:
-| ESP32 pin | Component |
+| ESP32 pin | External Component |
 |-----------|-----------|
 |GND | GND screen, buttons, buzzer|
 | 21 | SDA - screen|
