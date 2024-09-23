@@ -26,6 +26,7 @@ This table show the corespondence between the ESP32, the screen, the push button
 | 4 | buzzer |
 
 ![image](https://github.com/user-attachments/assets/e8421ceb-cea5-4fc2-848f-60ac8ccad09c)
+![image](https://github.com/user-attachments/assets/2afbe2e5-0e51-49e2-ab88-3d517ca154bf)
 
 **NOTE** The directions (up, down, left, right) are the possible directions in which the snake can go.
 
