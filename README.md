@@ -25,6 +25,8 @@ This table show the corespondence between the ESP32, the screen, the push button
 | 25 | buton - right|
 | 4 | buzzer |
 
+![image](https://github.com/user-attachments/assets/e8421ceb-cea5-4fc2-848f-60ac8ccad09c)
+
 **NOTE** The directions (up, down, left, right) are the possible directions in which the snake can go.
 
 The principle of the game is unchanged: the snake must eat as many fruits as possible without intersecting itself or hitting the walls.
@@ -33,6 +35,8 @@ The buzzer have 3 types of sounds: one for the start, on for eating a fruit and 
 **ATTENTION** Some fruits can apper under the score.
 
 When you lose, you can start a new game by simply pressing the up button once and the game will restart. 
+
+
 
 
 
